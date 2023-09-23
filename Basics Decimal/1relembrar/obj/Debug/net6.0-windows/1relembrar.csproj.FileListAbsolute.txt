@@ -1,0 +1,17 @@
+C:\CSharp\1relembrar\1relembrar\bin\Debug\net6.0-windows\1relembrar.exe
+C:\CSharp\1relembrar\1relembrar\bin\Debug\net6.0-windows\1relembrar.deps.json
+C:\CSharp\1relembrar\1relembrar\bin\Debug\net6.0-windows\1relembrar.runtimeconfig.json
+C:\CSharp\1relembrar\1relembrar\bin\Debug\net6.0-windows\1relembrar.dll
+C:\CSharp\1relembrar\1relembrar\bin\Debug\net6.0-windows\1relembrar.pdb
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.csproj.AssemblyReference.cache
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\_1relembrar.Form1.resources
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.csproj.GenerateResource.cache
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.AssemblyInfoInputs.cache
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.AssemblyInfo.cs
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.csproj.CoreCompileInputs.cache
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.dll
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\refint\1relembrar.dll
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.pdb
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\1relembrar.genruntimeconfig.cache
+C:\CSharp\1relembrar\1relembrar\obj\Debug\net6.0-windows\ref\1relembrar.dll

@@ -1,0 +1,11 @@
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\bin\Debug\Constantes_Estruturas.exe.config
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\bin\Debug\Constantes_Estruturas.exe
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\bin\Debug\Constantes_Estruturas.pdb
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\obj\Debug\Constantes_Estruturas.csproj.AssemblyReference.cache
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\obj\Debug\Constantes_Estruturas.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\obj\Debug\Constantes_Estruturas.Form1.resources
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\obj\Debug\Constantes_Estruturas.Properties.Resources.resources
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\obj\Debug\Constantes_Estruturas.csproj.GenerateResource.cache
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\obj\Debug\Constantes_Estruturas.csproj.CoreCompileInputs.cache
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\obj\Debug\Constantes_Estruturas.exe
+C:\CSharp\Constantes_Estruturas\Constantes_Estruturas\obj\Debug\Constantes_Estruturas.pdb

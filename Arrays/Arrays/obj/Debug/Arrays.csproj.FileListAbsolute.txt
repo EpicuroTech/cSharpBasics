@@ -1,0 +1,11 @@
+C:\CSharp\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\CSharp\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\CSharp\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\CSharp\Arrays\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\CSharp\Arrays\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Arrays\Arrays\obj\Debug\Arrays.Form1.resources
+C:\CSharp\Arrays\Arrays\obj\Debug\Arrays.Properties.Resources.resources
+C:\CSharp\Arrays\Arrays\obj\Debug\Arrays.csproj.GenerateResource.cache
+C:\CSharp\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\CSharp\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\CSharp\Arrays\Arrays\obj\Debug\Arrays.pdb
