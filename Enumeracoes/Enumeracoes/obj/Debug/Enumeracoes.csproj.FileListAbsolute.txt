@@ -1,0 +1,11 @@
+C:\CSharp\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.exe.config
+C:\CSharp\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.exe
+C:\CSharp\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.pdb
+C:\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.AssemblyReference.cache
+C:\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.Form1.resources
+C:\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.Properties.Resources.resources
+C:\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.GenerateResource.cache
+C:\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.CoreCompileInputs.cache
+C:\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.exe
+C:\CSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.pdb
