@@ -1,0 +1,11 @@
+C:\CSharp\Strings\Strings\bin\Debug\Strings.exe.config
+C:\CSharp\Strings\Strings\bin\Debug\Strings.exe
+C:\CSharp\Strings\Strings\bin\Debug\Strings.pdb
+C:\CSharp\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\CSharp\Strings\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Strings\Strings\obj\Debug\Strings.Properties.Resources.resources
+C:\CSharp\Strings\Strings\obj\Debug\Strings.csproj.GenerateResource.cache
+C:\CSharp\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\CSharp\Strings\Strings\obj\Debug\Strings.exe
+C:\CSharp\Strings\Strings\obj\Debug\Strings.pdb
+C:\CSharp\Strings\Strings\obj\Debug\Strings.exec_label.resources
